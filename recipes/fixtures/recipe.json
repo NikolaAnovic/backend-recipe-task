@@ -1,0 +1,107 @@
+[
+{
+    "model": "recipes.recipe",
+    "pk": 1,
+    "fields": {
+        "recipe_author": 1,
+        "name": "banana split",
+        "text": "This is banana split.",
+        "ingredient": [
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 2,
+    "fields": {
+        "recipe_author": 1,
+        "name": "banana icecream",
+        "text": "New banana icecream",
+        "ingredient": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 3,
+    "fields": {
+        "recipe_author": 1,
+        "name": "rainbow icecream",
+        "text": "light sweet ice cream",
+        "ingredient": [
+            2,
+            6,
+            7
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 4,
+    "fields": {
+        "recipe_author": 1,
+        "name": "el ajskremo",
+        "text": "hola amigo",
+        "ingredient": [
+            1
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 5,
+    "fields": {
+        "recipe_author": 1,
+        "name": "el ajskremo",
+        "text": "hola amigo",
+        "ingredient": [
+            1
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 6,
+    "fields": {
+        "recipe_author": 1,
+        "name": "cokolada kup",
+        "text": "jgdkjqwgdwe",
+        "ingredient": [
+            1,
+            2
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 7,
+    "fields": {
+        "recipe_author": 3,
+        "name": "recept br 7",
+        "text": "ovo je 7. test recept",
+        "ingredient": [
+            4,
+            5
+        ]
+    }
+},
+{
+    "model": "recipes.recipe",
+    "pk": 8,
+    "fields": {
+        "recipe_author": 1,
+        "name": "recept br 8",
+        "text": "novi test recept 8",
+        "ingredient": [
+            4,
+            5
+        ]
+    }
+}
+]

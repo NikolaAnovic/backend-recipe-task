@@ -1,0 +1,7 @@
+django==4.1
+djangorestframework==3.13
+djangorestframework_simplejwt==5.2.0
+requests==2.28.1
+setuptools==57.5.0
+clearbit==0.1.7
+django-extensions==3.2.0

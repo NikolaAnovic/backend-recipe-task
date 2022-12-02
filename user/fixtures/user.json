@@ -1,0 +1,72 @@
+[
+{
+    "model": "user.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$M1XMVsFZKHyzJ0j24Dcnyf$zvA0m60uLay37g5O9c3EPTls/41dS0pBgP7bMUS8JQQ=",
+        "last_login": null,
+        "email": "admin@gmail.com",
+        "first_name": "Nikola",
+        "last_name": "Anovic",
+        "created_at": "2022-11-23T10:39:03.677Z",
+        "is_active": true,
+        "is_admin": false
+    }
+},
+{
+    "model": "user.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$RqpCMmGe8AcDXmflTuCCmj$rzcoEKB4/m36sEwfIZUPiLwd8quYIK1nhL5EH4GTBRw=",
+        "last_login": null,
+        "email": "anovic.nikola3@gmail.com",
+        "first_name": "nikolo",
+        "last_name": "anovo",
+        "created_at": "2022-11-23T10:48:37.934Z",
+        "is_active": true,
+        "is_admin": true
+    }
+},
+{
+    "model": "user.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$7X0GCqAMkGlQ3MkyKImLW4$1GrnnUYvy6l7/YmXh9aZDKuOsv36DEE4KZbRlfzlZRM=",
+        "last_login": null,
+        "email": "anovicnikola3@gmail.com",
+        "first_name": "nidzo",
+        "last_name": "anovo",
+        "created_at": "2022-11-23T23:16:56.459Z",
+        "is_active": true,
+        "is_admin": false
+    }
+},
+{
+    "model": "user.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$SMXP1wAsW7EmLbbVJQmklb$YybkEHeSAi/YUY++OmPH22ekFDgcQUCPgon0lQh7WI8=",
+        "last_login": null,
+        "email": "anovicnikola3@yahoo.com",
+        "first_name": "nindzola",
+        "last_name": "anoslavovic",
+        "created_at": "2022-11-25T15:35:55.150Z",
+        "is_active": true,
+        "is_admin": false
+    }
+},
+{
+    "model": "user.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$nR9IWYq80s5VHQpwFmMlHJ$BwZgI6fN9DWReJkI5GhZJdyD/hmK020rar9V/ncmvdM=",
+        "last_login": null,
+        "email": "admin2@gmail.com",
+        "first_name": "nikola",
+        "last_name": "anovic",
+        "created_at": "2022-11-27T15:29:35.850Z",
+        "is_active": true,
+        "is_admin": false
+    }
+}
+]
